@@ -4,7 +4,7 @@
  Project      : SQL Server Modern Data Warehouse
  Script       : 01_create_database.sql
  Author       : Muhammad Faizan
- Created Date : YYYY-MM-DD
+ Created Date : 2026/06/30
 
  Purpose
  ------------------------------------------------------------------------------

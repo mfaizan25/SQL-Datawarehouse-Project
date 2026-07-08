@@ -179,8 +179,15 @@ Modern-Data-Warehouse/
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repository
+## 🔗 Repository
+
+GitHub: https://github.com/mfaizan25/SQL-Datawarehouse-Project
+
+## 📥 Clone the Repository
+
 ```bash
 git clone https://github.com/mfaizan25/SQL-Datawarehouse-Project.git
+cd SQL-Datawarehouse-Project
 ```
 
 ### 2️⃣ Open SQL Server

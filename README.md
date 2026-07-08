@@ -180,7 +180,7 @@ Modern-Data-Warehouse/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/Modern-Data-Warehouse.git
+git clone https://github.com/mfaizan25/SQL-Datawarehouse-Project.git
 ```
 
 ### 2️⃣ Open SQL Server

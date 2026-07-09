@@ -127,14 +127,11 @@ Modern-Data-Warehouse/
 ## 🧩 Data Model
 
 ### 📊 Fact Tables
-- FactSales  
+- Fact_Sales  
 
 ### 📚 Dimension Tables
-- DimCustomer  
-- DimProduct  
-- DimDate  
-- DimStore  
-- DimEmployee  
+- Dim_Customers  
+- Dim_Products  
 
 ---
 

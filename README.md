@@ -254,18 +254,8 @@ Insights
 
 ## 👨‍💻 Author
 
-### Muhammad Faizan
-
-Aspiring **Data Analyst** with a strong passion for **Finance, Business Intelligence, and Data Engineering**. I enjoy transforming raw data into meaningful insights through SQL, ETL processes, data modeling, and analytics. My career goal is to bridge the gap between data and finance by building scalable data solutions that support strategic business decisions.
-
-**Areas of Interest**
-- 📊 Data Analytics
-- 💰 Finance & Financial Analytics
-- 🏦 Banking & FinTech
-- 🗄️ SQL Server & Data Warehousing
-- 🔄 ETL Development
-- 📈 Business Intelligence
-- 📉 Data Visualization
+**Muhammad Faizan**
+BSc (Hons) Applied Management student at BPP University London, targeting a career in Financial Data Analysis and FP&A. This project was built to demonstrate practical SQL Server skills — ETL pipeline design, Medallion Architecture (Bronze/Silver/Gold), and dimensional modeling.
 
 ### Connect with Me
 

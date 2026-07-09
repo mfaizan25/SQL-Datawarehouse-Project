@@ -252,10 +252,25 @@ Insights
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Muhammad Faizan**  
-Aspiring Data Engineer | Data Analyst | BI Enthusiast  
+### Muhammad Faizan
+
+Aspiring **Data Analyst** with a strong passion for **Finance, Business Intelligence, and Data Engineering**. I enjoy transforming raw data into meaningful insights through SQL, ETL processes, data modeling, and analytics. My career goal is to bridge the gap between data and finance by building scalable data solutions that support strategic business decisions.
+
+**Areas of Interest**
+- 📊 Data Analytics
+- 💰 Finance & Financial Analytics
+- 🏦 Banking & FinTech
+- 🗄️ SQL Server & Data Warehousing
+- 🔄 ETL Development
+- 📈 Business Intelligence
+- 📉 Data Visualization
+
+### Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammadfaizan25/
+- 🐙 **GitHub:** https://github.com/mfaizan25  
 
 ---
 
